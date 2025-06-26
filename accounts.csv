@@ -1,0 +1,5 @@
+Account,Password,Username,URL,Note
+"Google","password123","user1@gmail.com","https://accounts.google.com","Account Google personale"
+"Facebook","password456","user2@facebook.com","https://www.facebook.com","Account Facebook"
+"Twitter","mypassword789","user3@twitter.com","https://www.twitter.com","Account Twitter"
+"LinkedIn","securepass","user4@linkedin.com","https://www.linkedin.com","Account LinkedIn"
